@@ -1,0 +1,7 @@
+br/com/sqs_producer/services/SQSSendMessage.class
+br/com/sqs_producer/App.class
+br/com/sqs_producer/credentials/CredentialsProvider$1$1.class
+br/com/sqs_producer/credentials/CredentialsProvider$1.class
+br/com/sqs_producer/credentials/CredentialsProvider.class
+br/com/sqs_producer/services/SQSGetQueueURL.class
+br/com/sqs_producer/services/SQSClient.class
